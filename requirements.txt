@@ -1,0 +1,7 @@
+streamlit
+cohere
+pillow
+numpy 
+requests 
+tqdm
+google-genai
